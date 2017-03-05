@@ -1,0 +1,29 @@
+{
+  "name": "facebooksim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhmdshorafa/facebookSim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhmdshorafa/facebookSim/issues"
+  },
+  "homepage": "https://github.com/mhmdshorafa/facebookSim#readme",
+  "dependencies": {
+    "shot": "^3.4.0",
+    "tape": "^4.6.3"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5"
+  }
+}
